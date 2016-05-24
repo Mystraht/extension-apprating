@@ -1,4 +1,4 @@
-package shareex;
+package apprate;
 
 import android.net.Uri;
 import android.content.Intent;
