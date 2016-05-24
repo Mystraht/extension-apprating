@@ -1,9 +1,19 @@
 {
-        "name": "extension-apprating",
-        "url": "https://github.com/Mystraht/extension-apprating",
-        "license": "GPL",
-        "contributors":["Mystraht"],
-        "tags": ["rate","api","html5","ios","android","apprating","openfl"],
-        "description": "Extension that allow ",
-        "version": "1.0.1"
+  "name": "extension-apprating",
+  "url": "https://github.com/Mystraht/extension-apprating",
+  "license": "GPL",
+  "contributors": [
+    "Mystraht"
+  ],
+  "tags": [
+    "rate",
+    "api",
+    "html5",
+    "ios",
+    "android",
+    "apprating",
+    "openfl"
+  ],
+  "description": "Extension that let you open store of a given id app on android and ios",
+  "version": "1.0.2"
 }
