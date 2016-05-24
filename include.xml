@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension>
+	<section if="android">
+		<include path="java/AppRate/include.xml" />
+	</section>
+	<!--<section if="ios">-->
+		<!--<ndll name="openflShareExtension" />-->
+		<!--<ios linker-flags="-v" />-->
+	<!--</section>-->
+	<!--<section if="blackberry">-->
+		<!--<ndll name="openflShareExtension" />-->
+	<!--</section>-->
+</extension>

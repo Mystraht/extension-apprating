@@ -1,0 +1,10 @@
+{
+        "name": "extension-apprating",
+        "url": "https://github.com/Mystraht/extension-apprating",
+        "license": "MIT",
+        "contributors":["Mystraht"],
+        "tags": ["share","api","html5","ios","android","blackberry","openfl"],
+        "description": "Rating extension",
+        "version": "1.0.0",
+        "releasenote": "."
+}
