@@ -6,7 +6,7 @@ Extension that let you open store rating section of a given id app on android an
 Installation
 ============
 
-You can easily install IAP using haxelib:
+You can easily install apprating using haxelib:
 
     haxelib install extension-apprating
 
